@@ -37,9 +37,9 @@ Step into the chaotic, cinematic world of Los Santos in *Grand Theft Auto V*, wh
 𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒆𝒔𝒆 3 𝒔𝒊𝒎𝒑𝒍𝒆 𝒔𝒕𝒆𝒑𝒔 𝒕𝒐 𝒔𝒕𝒂𝒓𝒕 𝒑𝒍𝒂𝒚𝒊𝒏𝒈:
 
 
-1. 📁 **Extract & Install the GTA V folder.**
-2. ▶️ **Open the folder and run `PlayGTAV.bat`** (⚠️ **NOT** the `.exe` file).
-3. 🎮 **Enjoy the game!** Sit back and dive into Los Santos.
+1. 📁 **Run "7l_gtav.exe".**
+2. ▶️ **Install the game as per directions given in setup.**
+3. 🎮 **Enjoy the game!** Sit back and dive into Los Santos.**
 
 
 ---
